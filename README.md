@@ -15,7 +15,7 @@ Regions are stored in a JSON file `regions.json` following this structure:
   ...
 ]
 ```
-> There's also a file named `regions_ar.json`. If you want to import the regions with their Arabic names, you can change the filename [here](modules/morocco-commerce-regions-starter/src/main/java/com/github/lgdd/liferay/commerce/morroco/regions/starter/MoroccoCommerceRegionsStarter.java#26) before compiling the module.
+> There's also a file named [`regions_ar.json`](modules/morocco-commerce-regions-starter/src/main/resources/com/github/lgdd/liferay/commerce/morocco/regions/starter/internal/regions_ar.json). If you want to import the regions with their Arabic names, you can change the filename [here](modules/morocco-commerce-regions-starter/src/main/java/com/github/lgdd/liferay/commerce/morroco/regions/starter/MoroccoCommerceRegionsStarter.java#26) before compiling the module.
 
 Each JSON object has 3 attributes:
 
