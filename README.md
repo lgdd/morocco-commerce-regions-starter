@@ -1,9 +1,5 @@
 # Morocco Commerce Regions Starter
 
-![Freelancer](doc/preview.png)
-
-## Usage
-
 This module allows you to add Morocco regions when clicking on **Import Regions** under `Commerce > Settings > Countries`.
 
 ## Data structure
