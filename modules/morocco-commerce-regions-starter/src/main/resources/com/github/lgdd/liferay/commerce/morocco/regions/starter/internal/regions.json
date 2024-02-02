@@ -1,0 +1,62 @@
+[
+  {
+    "priority": 1,
+    "code":"01",
+    "name":"Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "priority": 2,
+    "code":"02",
+    "name":"L'Oriental"
+  },
+  {
+    "priority": 3,
+    "code":"03",
+    "name":"Fès-Meknès"
+  },
+  {
+    "priority": 4,
+    "code":"04",
+    "name":"Rabat-Salé-Kénitra"
+  },
+  {
+    "priority": 5,
+    "code":"05",
+    "name":"Béni Mellal-Khénifra"
+  },
+  {
+    "priority": 6,
+    "code":"06",
+    "name":"Casablanca-Settat"
+  },
+  {
+    "priority": 7,
+    "code":"07",
+    "name":"Marrakech-Safi"
+  },
+  {
+    "priority": 8,
+    "code":"08",
+    "name":"Drâa-Tafilalt"
+  },
+  {
+    "priority": 9,
+    "code":"09",
+    "name":"Souss-Massa"
+  },
+  {
+    "priority": 10,
+    "code":"10",
+    "name":"Guelmim-Oued Noun"
+  },
+  {
+    "priority": 11,
+    "code":"11",
+    "name":"Laâyoune-Sakia El Hamra"
+  },
+  {
+    "priority": 12,
+    "code":"12",
+    "name":"Dakhla-Oued Ed-Dahab"
+  }
+]
